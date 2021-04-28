@@ -3,7 +3,11 @@ D1 Project Proposal
 
 Team: Jie Feng, Jungkyu Kim, Riley Williamson, Rodney Davemann, Veera Supraja Koppisetty, Felix Ogbodu
 
-Datasets: CDC: Provisional_COVID-19_Death_Counts_by_Sex_Age_and_State, CDC: Indicators_of_Anxiety_or_Depression_Based_on_Reported_Frequency_of_Symptoms_During_Last_7_Days
+Datasets: 
+(not used: CDC: Provisional_COVID-19_Death_Counts_by_Sex_Age_and_State), 
+CDC: Indicators_of_Anxiety_or_Depression_Based_on_Reported_Frequency_of_Symptoms_During_Last_7_Days(also called Anxiety_data)
+CDC(?):
+us_states
 
 Questions: 
 Has COVID_19 affected the mental health of Americans?
@@ -22,3 +26,4 @@ Roles:
 -	P-test: Riley Williamson
 -	Analysis: Rodney Davemann, Jie Feng
 -	Presentation: Everyone
+

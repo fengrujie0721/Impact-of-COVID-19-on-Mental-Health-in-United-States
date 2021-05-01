@@ -22,9 +22,9 @@ Hypothesis: Mental health issues have a positive correlation with COVID-19 death
 
 Roles:
 -	Github manager: Jie Feng
--	Data importation and merging: Veera Koppisetty
--	Data cleaning: Veera Koppisetty, Jungkyu Kim
--	Graphing: Felix Ogbodu, Jungkyu Kim
+-	Data importation and merging: Veera Supraja Koppisetty
+-	Data cleaning: Veera Supraja Koppisetty, Jungkyu Kim
+-	Graphing: Felix Ogbodu, Jungkyu Kim,Veera Supraja Koppisetty
 -	Summary Statistics: Riley Williamson
 -	P-test: Riley Williamson
 -	Analysis: Rodney Davemann, Jie Feng

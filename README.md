@@ -54,3 +54,26 @@ Number of rows in Merged Data set:  4131 
 Summary statistics of COVID-19 cases, COVID-19 death, and mental disorders.
 
 
+
+![image](https://user-images.githubusercontent.com/79819331/120257963-36ae3400-c25f-11eb-9e92-2fdd932d33f1.png)
+
+State wise total Deaths from COVID as of 04/25/2021 
+
+
+![image](https://user-images.githubusercontent.com/79819331/120258061-5d6c6a80-c25f-11eb-9782-7c302717a4e3.png)
+
+
+Data Analysis: Data by each disorder
+
+
+![image](https://user-images.githubusercontent.com/79819331/120258149-7ecd5680-c25f-11eb-9d97-a55cbedea212.png)
+
+COVID-19 fatality  vs Depression, Anxiety
+
+
+![image](https://user-images.githubusercontent.com/79819331/120258212-99073480-c25f-11eb-8a36-dc6ab3b9ea97.png)
+
+![image](https://user-images.githubusercontent.com/79819331/120258238-a45a6000-c25f-11eb-9332-5a361e55d543.png)
+
+COVID-19 cases, deaths, and mental disorders in Georgia.
+

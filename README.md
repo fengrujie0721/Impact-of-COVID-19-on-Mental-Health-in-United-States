@@ -77,3 +77,17 @@ COVID-19 fatality  vs Depression, Anxiety
 
 COVID-19 cases, deaths, and mental disorders in Georgia.
 
+
+The total number of cases is 9,762,136.
+
+The total number of deaths is 222,812.
+
+The average rate of anxiety is 32.08%.
+
+The average rate of depression is 25.65%.
+
+The average rate of anxiety or depression symptoms is 36.98%.
+
+The average rate for both anxiety and depression symptoms is 20.72%.
+
+

@@ -1,4 +1,4 @@
-# Project: Impact of COVID-19 on Mental Health in United States![image](https://user-images.githubusercontent.com/79819331/120257345-116cf600-c25e-11eb-9329-90f80c75b920.png)
+# Project: Impact of COVID-19 on Mental Health in United States
 
 
 D1 Project Proposal
@@ -30,10 +30,27 @@ Roles:
 
 
 Datasets: 
+
 Indicators_of_Anxiety_or_Depression_Based_on_Reported_Frequency_of_Symptoms_During_Last_7_Days(also called Anxiety_data)
+
 COVID_Cases_And_Deaths_Data_From_2020_to_2021(Also called us_states)
  
-We have got our required covid data , anxiety deaths data from CDC since 2020
+We have got our required covid data, anxiety deaths data from CDC since 2020
+
 Number of rows in Covid Data set : 23059
+
 Number of rows in Anxiety Data set : 5784
-![image](https://user-images.githubusercontent.com/79819331/120257434-3fead100-c25e-11eb-8287-1356ea1985a0.png)
+
+
+![image](https://user-images.githubusercontent.com/79819331/120257632-8fc99800-c25e-11eb-85c1-9ac6e27bb6c7.png)
+
+After the merge:
+Number of rows in Merged Data set:  4131 
+
+
+
+![image](https://user-images.githubusercontent.com/79819331/120257693-aa037600-c25e-11eb-8930-96200b15a202.png)
+
+Summary statistics of COVID-19 cases, COVID-19 death, and mental disorders.
+
+

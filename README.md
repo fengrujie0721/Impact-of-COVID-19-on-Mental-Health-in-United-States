@@ -1,4 +1,5 @@
-# project
+# Project: Impact of COVID-19 on Mental Health in United States![image](https://user-images.githubusercontent.com/79819331/120257345-116cf600-c25e-11eb-9329-90f80c75b920.png)
+
 
 D1 Project Proposal
 
@@ -26,3 +27,13 @@ Roles:
 - P-test: Riley Williamson
 - Analysis: Rodney Davemann, Jie Feng
 - Presentation: Everyone
+
+
+Datasets: 
+Indicators_of_Anxiety_or_Depression_Based_on_Reported_Frequency_of_Symptoms_During_Last_7_Days(also called Anxiety_data)
+COVID_Cases_And_Deaths_Data_From_2020_to_2021(Also called us_states)
+ 
+We have got our required covid data , anxiety deaths data from CDC since 2020
+Number of rows in Covid Data set : 23059
+Number of rows in Anxiety Data set : 5784
+![image](https://user-images.githubusercontent.com/79819331/120257434-3fead100-c25e-11eb-8287-1356ea1985a0.png)

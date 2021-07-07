@@ -1,4 +1,4 @@
-# Project: Impact of COVID-19 on Mental Health in United States
+# Impact of COVID-19 on Mental Health in United States
 
 
 D1 Project Proposal
